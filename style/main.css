@@ -1,0 +1,52 @@
+p {
+    margin: 2.5rem 4.8125rem;
+    font-style: normal;
+    font-size: 1.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+
+h1 {
+    margin: 6.5625rem 3.8125rem;
+    width: 89%;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    font-size: 3.9rem;
+    font-style: normal;
+    letter-spacing: normal;
+}
+
+h2 {
+    margin-top: -3rem;
+    margin-left: 4.1875rem;
+    width: 60%;
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5rem;
+}
+
+h4 {
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    margin-top: 5rem;
+}
+
+img {
+    margin: 6.5625rem 4.8125rem;
+    width: 85%;
+}
+
+#button {
+    margin-top: 4rem;
+    margin-left: 4.1875rem;
+    width: 13.5rem;
+    height: 4.25rem;
+    color: #ffffff;
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-size: 0.875rem; 
+}
